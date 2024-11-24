@@ -26,10 +26,10 @@ class MainActivity : ComponentActivity() {
 // This should be completed in a group setting
 // DONE Analyze the requirements for Individual Project 3
 // DONE Show the DragAndDropBoxes composable
-// ToDo x: Change the circle to a rect
-// ToDo x: Replace the command right with a image or icon
-// ToDo x: Make this works in landscape mode only
-// ToDo x: Rotate the rect around itself
+// DONE Change the circle to a rect
+// DONE Replace the command right with a image or icon
+// DONE Make this works in landscape mode only
+// DONE Rotate the rect around itself
 // ToDo x: Move - translate the rect horizontally and vertically
 // ToDo 8: Add a button to reset the rect to the center of the screen
 // ToDo 9: Enable certain animation based on the drop event (like up or down)

@@ -64,4 +64,11 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    implementation("androidx.compose.ui:ui:1.5.1")
+    implementation("androidx.compose.material3:material3:1.2.0")
+    implementation("androidx.compose.animation:animation:1.5.1")
+    implementation("androidx.compose.foundation:foundation:1.5.1")
+    implementation("androidx.core:core-ktx:1.12.0") // Core KTX for modern Android development
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
 }
