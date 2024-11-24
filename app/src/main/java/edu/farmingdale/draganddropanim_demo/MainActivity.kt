@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             DragAndDropAnim_DemoTheme {
 
-                    DragAndDropBoxes()
+                    DragAndDropBoxes() //shows DragAndDropBoxes
 
 
             }
@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
 
 // This should be completed in a group setting
 // DONE Analyze the requirements for Individual Project 3
-// ToDo x: Show the DragAndDropBoxes composable
+// DONE Show the DragAndDropBoxes composable
 // ToDo x: Change the circle to a rect
 // ToDo x: Replace the command right with a image or icon
 // ToDo x: Make this works in landscape mode only
