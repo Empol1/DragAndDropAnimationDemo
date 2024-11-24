@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
 
 
 // This should be completed in a group setting
-// ToDo x: Analyze the requirements for Individual Project 3
+// DONE Analyze the requirements for Individual Project 3
 // ToDo x: Show the DragAndDropBoxes composable
 // ToDo x: Change the circle to a rect
 // ToDo x: Replace the command right with a image or icon
